@@ -1,4 +1,4 @@
-package JAVAPROBLEMS;
+package CONDITIONALANDLOOPS;
 
 import java.util.Scanner;
 
